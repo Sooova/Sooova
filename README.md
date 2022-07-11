@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/V7W9hO9.jpg"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Suva! Nice to virtually meet you!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="auto">, I'm Suva! Nice to virtually meet you!</h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a full stack web developer, after acquiring my certificate of web development from Monash University. I've finally find my passion, and keen to settle into the web development space. <br>Soon, I will also be studying Bachelor of Computer Science at Deakin University.</p>
 
