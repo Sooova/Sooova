@@ -49,7 +49,7 @@
 <p align="left">
 <a href="https://sooova.github.io/draft-portfolio-page/Index.html"><img src="https://img.shields.io/badge/-Suvapokharel.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://au.linkedin.com/in/suva-pokharel-1b480a217"><img src="https://img.shields.io/badge/-Suva%20Pokharel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pokharel.suva@gmail.com"><img src="https://img.shields.io/badge/-suvapokharel@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pokharel.suva@gmail.com"><img src="https://img.shields.io/badge/-pokharel.suva@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/pokharel_suva/"><img src="https://img.shields.io/badge/-Suva.Pokharel-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <br/>
     </p>
