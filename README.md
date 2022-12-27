@@ -51,6 +51,7 @@
     * Front-end development (React), database integrations, CMS integrations and front-end designs.
 * #### Dec-15-21 - Present: Full-stack web development at <a href="https://www.linkedin.com/company/brand-collective-pty-ltd/mycompany/verification/">Brand Collective</a>
     * Front-end development, Backend and API development, payment system ingegrations, heavy Salesforce Commerce Cloud development, PHP and Magento.
+    * Mainly working across the following brands: <a href="https://review-australia.com"><img height="50px" src="https://harbourtownadelaide.com.au/Portals/0/StoreLogos/1575006291264.jpg"/></a>
 * #### Sep-18-22 - Present: On-call support for word-press business
     * Wordpress development, Woo-commerce and social pixel integrations.
 
