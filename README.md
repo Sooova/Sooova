@@ -36,17 +36,6 @@
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.salesforce.com/au/products/commerce-cloud/overview/" title="Salesforce Commerce Cloud"><img src="https://marketplace.magnolia-cms.com/.imaging/mte/corpweb2021/1200x628/dam/marketplace/logos/salesforce-commerce-cloud-logo.png/jcr:content/salesforce%20commerce%20cloud%20logo.png" alt="Adobe Photoshop" width="42px" height="21px"></a>
 
-
-### :link: &nbsp;Connect with me
-
-<p align="center">
-<a href="https://sooova.github.io/draft-portfolio-page/Index.html"><img src="https://img.shields.io/badge/-Suvapokharel.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://au.linkedin.com/in/suva-pokharel-1b480a217"><img src="https://img.shields.io/badge/-Suva%20Pokharel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pokharel.suva@gmail.com"><img src="https://img.shields.io/badge/-suvapokharel@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/pokharel_suva/"><img src="https://img.shields.io/badge/-Suva.Pokharel-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <br/>
-    </p>
-    
 ### :link: &nbsp;Personal Projects of Mine
 <p align="left">
 <a align="left" href="https://dear-developer.herokuapp.com/"><img width= "150px" height="auto" src="https://i.imgur.com/63wm4TK.png"/></a>
@@ -54,4 +43,15 @@
 <a align="left" href="https://canbanio.herokuapp.com"><img width= "150px" height="auto" src="https://camo.githubusercontent.com/b6f3eff9b9cd35fd791c1a176d913e189608d5552622f55e466f6c4f7d07e70b/68747470733a2f2f692e696d6775722e636f6d2f44625562304e752e706e67"/></a>
     </div>
 </p>
+
+### :link: &nbsp;Connect with me
+
+<p align="left">
+<a href="https://sooova.github.io/draft-portfolio-page/Index.html"><img src="https://img.shields.io/badge/-Suvapokharel.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://au.linkedin.com/in/suva-pokharel-1b480a217"><img src="https://img.shields.io/badge/-Suva%20Pokharel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pokharel.suva@gmail.com"><img src="https://img.shields.io/badge/-suvapokharel@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/pokharel_suva/"><img src="https://img.shields.io/badge/-Suva.Pokharel-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <br/>
+    </p>
+    
 Last Updated On: 11/11/2021
