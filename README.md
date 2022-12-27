@@ -48,7 +48,7 @@
 ### :link: &nbsp;Experience
 
 * Nov-11-21 - Present: Freelance web developement 
-* Dec-15-21 - Present: Full stack webdeveloper at <a href="https://www.linkedin.com/company/brand-collective-pty-ltd/mycompany/verification/"></a> <img  height="50px" src="https://media.licdn.com/dms/image/C560BAQHjiopPbOPPMg/company-logo_200_200/0/1645485699929?e=1680134400&v=beta&t=6GIw_JA01eL6C1a4f0uKD9q-5VSQtaPvCBiLXd_Wu_A"/>
+* Dec-15-21 - Present: Full stack webdeveloper at <a href="https://www.linkedin.com/company/brand-collective-pty-ltd/mycompany/verification/">Brand Collective</a>
 * Sep-18-22 - Present: On-call support for word-press business
 
 ### :link: &nbsp;Connect with me
