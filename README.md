@@ -38,7 +38,8 @@
 
 ### :link: &nbsp;Personal Projects of Mine
 <p align="left">
-<a align="left" href="https://dear-developer.herokuapp.com/"><img width= "150px" height="auto" src="https://i.imgur.com/63wm4TK.png"/></a>
+<a align="left" href="https://dear-developer.com/"><img width= "150px" height="auto" src="https://i.imgur.com/63wm4TK.png"/><br>(This is the current production version)</a><br>
+<a align="left" href="https://dear-developer.fly.dev/"><img width= "150px" height="auto" src="https://i.imgur.com/63wm4TK.png"/><br>(Active development version as i re-write my codebase into REMIX + FIREBASE</a><br>
 <a align="left" href="https://sooova.github.io/Validus-Studios-Concept"><img width= "150px" height="auto" src="https://i.imgur.com/5dMiJOB.png"/></a>
 <a align="left" href="https://canbanio.herokuapp.com"><img width= "150px" height="auto" src="https://camo.githubusercontent.com/b6f3eff9b9cd35fd791c1a176d913e189608d5552622f55e466f6c4f7d07e70b/68747470733a2f2f692e696d6775722e636f6d2f44625562304e752e706e67"/></a>
 </br>
@@ -53,8 +54,8 @@
 * #### Dec-15-21 - Present: Full-stack web development at <a href="https://www.linkedin.com/company/brand-collective-pty-ltd/mycompany/verification/">Brand Collective</a>
     * Front-end development, Backend and API development, payment system ingegrations, heavy Salesforce Commerce Cloud development, PHP and Magento.
     * Mainly working across the following brands: <a href="https://review-australia.com">Review-Australia</a> (JS, SFCC), <a href="https://www.yarratrail.com.au/">Yarra Trail/Marco-Polo</a> (PHP, Magento2), <a href="https://www.replayjeans.com.au/">Replay Jeans</a>(PHP, Magento2
-* #### Sep-18-22 - Present: On-call support for word-press business
-    * Wordpress development, Woo-commerce and social pixel integrations.
+* #### Sep-18-22 - Present: On-call support for word-press business as well as Shopify Business
+    * Wordpress development, Woo-commerce and social pixel integrations. Custom shopify app development, SEO and ongoing custom theme support
 
 ### :link: &nbsp;Connect with me
 
@@ -66,4 +67,4 @@
     <br/>
     </p>
     
-Last Updated On: 11/11/2021
+Last Updated On: 28/08/2023
