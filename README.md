@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="35px">, I'm Suva! Nice to virtually meet you!</h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a full stack web developer, after acquiring my certificate of web development from Monash University. I've finally find my passion, and keen to settle into the web development space. <br>Soon, I will also be studying Bachelor of Computer Science at Deakin University.</p>
+<p align="center" width="150px"> I have established my career as a full stack web developer, with over 2 years of experience in web development across a diverse range of projects. I've had the privilege to work with some of the biggest names in Australian e-commerce, through Brand Collective including: Review-Australia (SFCC), Blackpepper(Shopify), Yarratrail(Shopify), Replay Jeans(Magento2). I've been an integral part of both the front-end design and execution, and also familiar with various JavaScript frameworks like React and Remix. My journey began with acquiring a certificate in web development from Monash University, where I discovered my true passion. Now, I am excited to continue my journey in the web development space, constantly learning and growing in this dynamic field.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sooova&show_icons=true&theme=synthwave"></p>
 
