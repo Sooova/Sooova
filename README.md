@@ -38,7 +38,7 @@
 
 ### :link: &nbsp;Personal Projects of Mine
 <p align="left">
-<a align="left" href="https://dear-developer.com/"><img width= "150px" height="auto" src="https://i.imgur.com/63wm4TK.png"/><br>(This is the current production version)</a><br>
+<a align="left" href="https://dear-developer.com/"><img width= "150px" height="auto" src="https://i.imgur.com/63wm4TK.png"/><br>(This is the current production version, please note my SSL cert has recently expired, if you'd like to ensure HTTPS please check out the development link instead!)</a><br>
 <a align="left" href="https://dear-developer.fly.dev/"><img width= "150px" height="auto" src="https://i.imgur.com/63wm4TK.png"/><br>(Active development version as i re-write my codebase into REMIX + FIREBASE</a><br>
 <a align="left" href="https://sooova.github.io/Validus-Studios-Concept"><img width= "150px" height="auto" src="https://i.imgur.com/5dMiJOB.png"/></a>
 <a align="left" href="https://canbanio.herokuapp.com"><img width= "150px" height="auto" src="https://camo.githubusercontent.com/b6f3eff9b9cd35fd791c1a176d913e189608d5552622f55e466f6c4f7d07e70b/68747470733a2f2f692e696d6775722e636f6d2f44625562304e752e706e67"/></a>
